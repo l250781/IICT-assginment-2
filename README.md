@@ -11,4 +11,6 @@ This is a single-page responsive mini-site created for **Assignment 02**. The fi
   - Accordion (checkbox hack)
   - Modal (checkbox hack)
 - Clean CSS variables for easy editing
+
+
   AUTHOR'S NOTE: Made in total accordance with the assignment, nothing is real, proper labeling and easily editable (do not touch the image design or else everything will be broken)
